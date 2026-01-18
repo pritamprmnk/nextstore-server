@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "description": "High performance laptop",
+    "price": 80000,
+    "image": "https://via.placeholder.com/200"
+  }
+]
